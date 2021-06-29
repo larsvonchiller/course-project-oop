@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+e:\проги\полигон\andrey-kursach\andrey-kursach\myform.h(259): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+e:\проги\полигон\andrey-kursach\andrey-kursach\myform.h(266): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+e:\проги\полигон\andrey-kursach\andrey-kursach\myform.h(273): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Andrey-kursach.vcxproj -> E:\Проги\Полигон\Andrey-kursach\Debug\Andrey-kursach.exe
